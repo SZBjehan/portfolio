@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.31cd35cd.chunk.css",
+    "main.js": "/portfolio/static/js/main.cdfd2419.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cdfd2419.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.89782c34.chunk.js": "/portfolio/static/js/2.89782c34.chunk.js",
+    "static/js/2.89782c34.chunk.js.map": "/portfolio/static/js/2.89782c34.chunk.js.map",
+    "static/js/3.d3effaf5.chunk.js": "/portfolio/static/js/3.d3effaf5.chunk.js",
+    "static/js/3.d3effaf5.chunk.js.map": "/portfolio/static/js/3.d3effaf5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.31cd35cd.chunk.css.map": "/portfolio/static/css/main.31cd35cd.chunk.css.map",
+    "static/js/2.89782c34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.89782c34.chunk.js.LICENSE.txt",
+    "static/media/CV_SyedZiaulBinBashar.cab8557a.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.cab8557a.pdf",
+    "static/media/CVpic.c5975721.jpeg": "/portfolio/static/media/CVpic.c5975721.jpeg",
+    "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
+    "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
+    "static/media/VueLaravelCRUD.b4c33f72.PNG": "/portfolio/static/media/VueLaravelCRUD.b4c33f72.PNG",
+    "static/media/bracu_logo.0b15af0a.png": "/portfolio/static/media/bracu_logo.0b15af0a.png",
+    "static/media/bufc.4e1dda59.jpg": "/portfolio/static/media/bufc.4e1dda59.jpg",
+    "static/media/craftreepic.70d817b4.PNG": "/portfolio/static/media/craftreepic.70d817b4.PNG",
+    "static/media/demoP.121adcb7.PNG": "/portfolio/static/media/demoP.121adcb7.PNG",
+    "static/media/ipscLogo.6e09500d.jpg": "/portfolio/static/media/ipscLogo.6e09500d.jpg",
+    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/logoTripegate.5dde71e0.png": "/portfolio/static/media/logoTripegate.5dde71e0.png",
+    "static/media/nancy.8d5922e4.PNG": "/portfolio/static/media/nancy.8d5922e4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54b4537.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.89782c34.chunk.js",
+    "static/css/main.31cd35cd.chunk.css",
+    "static/js/main.cdfd2419.chunk.js"
+  ]
+}
