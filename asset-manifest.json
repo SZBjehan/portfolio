@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.178f3ba0.chunk.css",
-    "main.js": "/portfolio/static/js/main.cdfd2419.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cdfd2419.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.17b7056b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.17b7056b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.89782c34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.89782c34.chunk.js.LICENSE.txt",
     "static/media/CV_SyedZiaulBinBashar.cab8557a.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.cab8557a.pdf",
     "static/media/CVpic.c5975721.jpeg": "/portfolio/static/media/CVpic.c5975721.jpeg",
+    "static/media/GameV.b0b0c37b.jpg": "/portfolio/static/media/GameV.b0b0c37b.jpg",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
     "static/media/VueLaravelCRUD.b4c33f72.PNG": "/portfolio/static/media/VueLaravelCRUD.b4c33f72.PNG",
@@ -33,6 +34,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.89782c34.chunk.js",
     "static/css/main.178f3ba0.chunk.css",
-    "static/js/main.cdfd2419.chunk.js"
+    "static/js/main.17b7056b.chunk.js"
   ]
 }
