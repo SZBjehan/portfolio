@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7c3c21db.chunk.css",
-    "main.js": "/portfolio/static/js/main.17b7056b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.17b7056b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.fa9a9a56.chunk.css",
+    "main.js": "/portfolio/static/js/main.bd387407.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bd387407.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -12,13 +12,14 @@
     "static/js/3.d3effaf5.chunk.js.map": "/portfolio/static/js/3.d3effaf5.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.7c3c21db.chunk.css.map": "/portfolio/static/css/main.7c3c21db.chunk.css.map",
+    "static/css/main.fa9a9a56.chunk.css.map": "/portfolio/static/css/main.fa9a9a56.chunk.css.map",
     "static/js/2.89782c34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.89782c34.chunk.js.LICENSE.txt",
-    "static/media/CV_SyedZiaulBinBashar.cab8557a.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.cab8557a.pdf",
+    "static/media/CV_SyedZiaulBinBashar.8d150270.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.8d150270.pdf",
     "static/media/CVpic.c5975721.jpeg": "/portfolio/static/media/CVpic.c5975721.jpeg",
     "static/media/GameV.b0b0c37b.jpg": "/portfolio/static/media/GameV.b0b0c37b.jpg",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
+    "static/media/QuizBizz.8637d73f.PNG": "/portfolio/static/media/QuizBizz.8637d73f.PNG",
     "static/media/VueLaravelCRUD.b4c33f72.PNG": "/portfolio/static/media/VueLaravelCRUD.b4c33f72.PNG",
     "static/media/bracu_logo.0b15af0a.png": "/portfolio/static/media/bracu_logo.0b15af0a.png",
     "static/media/bufc.4e1dda59.jpg": "/portfolio/static/media/bufc.4e1dda59.jpg",
@@ -33,7 +34,7 @@
     "static/js/runtime-main.a54b4537.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.89782c34.chunk.js",
-    "static/css/main.7c3c21db.chunk.css",
-    "static/js/main.17b7056b.chunk.js"
+    "static/css/main.fa9a9a56.chunk.css",
+    "static/js/main.bd387407.chunk.js"
   ]
 }
