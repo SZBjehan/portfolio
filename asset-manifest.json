@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b8d030c3.chunk.css",
-    "main.js": "/portfolio/static/js/main.5e9fb282.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5e9fb282.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b46fbc7e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b46fbc7e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -28,13 +28,14 @@
     "static/media/ipscLogo.6e09500d.jpg": "/portfolio/static/media/ipscLogo.6e09500d.jpg",
     "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
     "static/media/logoTripegate.5dde71e0.png": "/portfolio/static/media/logoTripegate.5dde71e0.png",
-    "static/media/nancy.8d5922e4.PNG": "/portfolio/static/media/nancy.8d5922e4.PNG"
+    "static/media/nancy.8d5922e4.PNG": "/portfolio/static/media/nancy.8d5922e4.PNG",
+    "static/media/westfordPic.44a92e60.PNG": "/portfolio/static/media/westfordPic.44a92e60.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.a54b4537.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.89782c34.chunk.js",
     "static/css/main.b8d030c3.chunk.css",
-    "static/js/main.5e9fb282.chunk.js"
+    "static/js/main.b46fbc7e.chunk.js"
   ]
 }
