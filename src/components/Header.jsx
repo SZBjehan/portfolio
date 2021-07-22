@@ -6,13 +6,13 @@ import Typed from 'react-typed';
 const Header = () => {
     return (
         <div class="headerr" id="Header">
-            <ParticlesBg color="#220099" background-color="#000000" num={150} type="cobweb" />
+            <ParticlesBg color="#000011" background-color="#000000" num={170} type="lines" />
             <div class="head-info">
                 <div class="header-name"> Syed Ziaul Bin Bashar</div>
                 <h3>
                     <Typed
                         className="typed-text"
-                        strings={["Web Developer", "Full Stack Developer", "Front-End Developer"]}
+                        strings={["Web Developer", "Full Stack Developer", "Front-End Developer", "Video Editor"]}
                         typeSpeed={40}
                         backSpeed={60}
                         loop>

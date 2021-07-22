@@ -10,7 +10,7 @@ const Skills = () => {
 
             <div class="skills" id="Skills">
                 <div class="skills-title">Skills :</div>
-                <Slide left duration={1500}>
+                <Slide right duration={1500}>
                     <div>
                         <div class="s-box">
                             <div class="skills-box">
@@ -75,7 +75,7 @@ const Skills = () => {
                                     <a href="http://tripegate.com/" class="work-link"> TRIPeGate </a>
                                     <p class="exp-info">Dhaka - Bangladesh</p>
                                     <p class="exp-info">Software Engineer Intern</p>
-                                    <p class="exp-info">March, 2021 - Present</p>
+                                    <p class="exp-info">March, 2021 - June, 2021</p>
                                 </div>
                             </div>
                             <div class="work-section">
