@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c72ccfb0.chunk.css",
-    "main.js": "/portfolio/static/js/main.440b3ed1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.440b3ed1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0ffc7602.chunk.css",
+    "main.js": "/portfolio/static/js/main.e8183b00.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e8183b00.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -12,12 +12,13 @@
     "static/js/3.d3effaf5.chunk.js.map": "/portfolio/static/js/3.d3effaf5.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.c72ccfb0.chunk.css.map": "/portfolio/static/css/main.c72ccfb0.chunk.css.map",
+    "static/css/main.0ffc7602.chunk.css.map": "/portfolio/static/css/main.0ffc7602.chunk.css.map",
     "static/js/2.f82ee306.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f82ee306.chunk.js.LICENSE.txt",
-    "static/media/CV_SyedZiaulBinBashar.d0191566.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.d0191566.pdf",
+    "static/media/CV_SyedZiaulBinBashar.b1d4119c.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.b1d4119c.pdf",
     "static/media/CVpic.c5975721.jpeg": "/portfolio/static/media/CVpic.c5975721.jpeg",
     "static/media/FakeNews.018b816a.PNG": "/portfolio/static/media/FakeNews.018b816a.PNG",
     "static/media/GameV.b0b0c37b.jpg": "/portfolio/static/media/GameV.b0b0c37b.jpg",
+    "static/media/Magpie.ffd77ee4.png": "/portfolio/static/media/Magpie.ffd77ee4.png",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NancyR.b5f35a2f.png": "/portfolio/static/media/NancyR.b5f35a2f.png",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
@@ -39,7 +40,7 @@
     "static/js/runtime-main.a54b4537.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.f82ee306.chunk.js",
-    "static/css/main.c72ccfb0.chunk.css",
-    "static/js/main.440b3ed1.chunk.js"
+    "static/css/main.0ffc7602.chunk.css",
+    "static/js/main.e8183b00.chunk.js"
   ]
 }
