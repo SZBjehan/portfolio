@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0ffc7602.chunk.css",
-    "main.js": "/portfolio/static/js/main.e8183b00.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e8183b00.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2f2a911a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2f2a911a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a54b4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a54b4537.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -14,14 +14,19 @@
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.0ffc7602.chunk.css.map": "/portfolio/static/css/main.0ffc7602.chunk.css.map",
     "static/js/2.f82ee306.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f82ee306.chunk.js.LICENSE.txt",
+    "static/media/BRAC_I.d6d1ea9f.png": "/portfolio/static/media/BRAC_I.d6d1ea9f.png",
     "static/media/CV_SyedZiaulBinBashar.b1d4119c.pdf": "/portfolio/static/media/CV_SyedZiaulBinBashar.b1d4119c.pdf",
     "static/media/CVpic.c5975721.jpeg": "/portfolio/static/media/CVpic.c5975721.jpeg",
     "static/media/FakeNews.018b816a.PNG": "/portfolio/static/media/FakeNews.018b816a.PNG",
     "static/media/GameV.b0b0c37b.jpg": "/portfolio/static/media/GameV.b0b0c37b.jpg",
-    "static/media/Magpie.ffd77ee4.png": "/portfolio/static/media/Magpie.ffd77ee4.png",
+    "static/media/HULT.f413c324.png": "/portfolio/static/media/HULT.f413c324.png",
+    "static/media/JP_Morgan.5c94d35d.png": "/portfolio/static/media/JP_Morgan.5c94d35d.png",
+    "static/media/Magpie.cbdc0944.png": "/portfolio/static/media/Magpie.cbdc0944.png",
+    "static/media/MasterCard.0b20bd1b.png": "/portfolio/static/media/MasterCard.0b20bd1b.png",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NancyR.b5f35a2f.png": "/portfolio/static/media/NancyR.b5f35a2f.png",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
+    "static/media/PSDP.37fbf491.png": "/portfolio/static/media/PSDP.37fbf491.png",
     "static/media/QuizBizz.8637d73f.PNG": "/portfolio/static/media/QuizBizz.8637d73f.PNG",
     "static/media/TRIPeGATE_R.59e23ed7.png": "/portfolio/static/media/TRIPeGATE_R.59e23ed7.png",
     "static/media/VueLaravelCRUD.b4c33f72.PNG": "/portfolio/static/media/VueLaravelCRUD.b4c33f72.PNG",
@@ -41,6 +46,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.f82ee306.chunk.js",
     "static/css/main.0ffc7602.chunk.css",
-    "static/js/main.e8183b00.chunk.js"
+    "static/js/main.2f2a911a.chunk.js"
   ]
 }
