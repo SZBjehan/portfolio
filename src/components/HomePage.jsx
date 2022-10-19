@@ -6,6 +6,9 @@ import Education from './Education';
 import Skills from './Skills';
 import Contact from './Contact';
 import NavBar from './NavBar';
+import Recommendation from './Recommendation';
+
+
 
 const HomePage = () => {
     return (
@@ -16,6 +19,7 @@ const HomePage = () => {
             <Projects />
             <Skills />
             <Education />
+            <Recommendation />
             <Contact />
         </div>
     );

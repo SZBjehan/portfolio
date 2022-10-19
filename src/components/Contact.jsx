@@ -110,7 +110,7 @@ const Contact = () => {
                 <div class="contact-footer">
                     <h2 class="foot-h2"> Syed Ziaul Bin Bashar </h2>
                     <a class="foot-a" href="mailto:ziaulbinbashar@gmail.com"><p class="foot-p">ziaulbinbashar@gmail.com</p></a>
-                    <p class="foot-p">+88 01711692450</p>
+                    <p class="foot-p">+88 01791787053</p>
                     <div class="contact-social">
                         <a href="https://www.linkedin.com/in/syed-ziaul-bin-bashar" class="fa fa-linkedin"></a>
                         <a href="https://github.com/SZBjehan" class="fa fa-github"></a>

@@ -17,8 +17,8 @@ const Education = () => {
                                 <a href="https://www.bracu.ac.bd/" class="edu-link"> BRAC University </a>
                                 <p class="edu-info">Bachelor of Science in Computer Science and Engineering</p>
                                 {/* <p class="edu-info">8th Semester ongoing with CGPA <span class="number"> 3.72</span></p> */}
-                                <p class="edu-info">8th Semester ongoing with CGPA 3.72</p>
-                                <p class="edu-info">January, 2019 - present</p>
+                                <p class="edu-info">12th Semester</p>
+                                <p class="edu-info">January, 2019 - December, 2022</p>
                             </div>
                         </div>
                         <div class="edu-des">
