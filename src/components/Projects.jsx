@@ -22,7 +22,7 @@ const Projects = () => {
             </div>
             <Slide right duration={1500}>
                 <div class="pos">
-                    
+
                     <div class="project-card">
                         {/* <a href="https://szbjehan.github.io/mathtech/">
                             <div class="pro-box">
@@ -110,6 +110,39 @@ const Projects = () => {
                                 </div>
                             </div>
                         </a>
+                        <a href="https://github.com/SZBjehan/CGPA_Calculator">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> CGPA Calculator </div>
+                                <div class="box_des" > JAVA Spring Boot Project
+                                    <br /> Frontend and Backend 
+                                    <br /> Take input of Grades
+                                    <br /> Output the CGPA
+                                </div>
+                            </div>
+                        </a>
+                        <a href="https://github.com/SZBjehan/Spring_POJO_Async_Cache">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> Spring Boot Management Project </div>
+                                <div class="box_des" > JAVA Spring Boot Project
+                                    <br /> Backend only 
+                                    <br /> Use of POJO, ASYNC and Cache
+                                    <br /> Production quality code  
+                                </div>
+                            </div>
+                        </a>
+                        <a href="https://github.com/SZBjehan/spring-security-jwt">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> Spring Security Project </div>
+                                <div class="box_des" > JAVA Spring Security Project using JWT
+                                    <br /> Backend only 
+                                    <br /> Login
+                                    <br /> Use of JWT   
+                                </div>
+                            </div>
+                        </a>
                         <a href="https://www.hdboomerang.com/">
                             <div class="pro-box">
                                 <img class="pro-box-pic" src={Nancy} alt="" />
@@ -123,6 +156,17 @@ const Projects = () => {
                                 </div>
                             </div>
                         </a>
+                        <a href="https://github.com/SZBjehan/Python_to_downlaod_attachments_from_Outlook_Mail">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> Python to downlaod attachments from Outlook_Mail </div>
+                                <div class="box_des" > Workflow Automation Project
+                                    <br /> Python Pandas  
+                                    <br /> Storing the attachments
+                                    <br /> Auto forwarding the attachments through WhatsApp
+                                </div>
+                            </div>
+                        </a>
                         <a href="https://magpieanalytics.com/">
                             <div class="pro-box">
                                 <img class="pro-box-pic" src={Magpie} alt="" />
@@ -132,6 +176,28 @@ const Projects = () => {
                                     <br /> Dynamic Website
                                     <br /> CRUD operation
                                     <br /> Client Project
+                                </div>
+                            </div>
+                        </a>
+                        <a href="https://github.com/SZBjehan/EllipticCurve_Cryptography">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> Eliptic Curve Cryptography </div>
+                                <div class="box_des" > Computations on Elliptic Curves
+                                    <br /> JAVA
+                                    <br /> Tske Elliptic curse, P as Input
+                                    <br /> Output shared Keys
+                                </div>
+                            </div>
+                        </a>
+                        <a href="https://github.com/SZBjehan/A51AlgoKeyGeneration">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> A51 Algorithm Key Generation </div>
+                                <div class="box_des" > Computations of A51 algo
+                                    <br /> JAVA
+                                    <br /> Tske input texts and generate Keys using A51 Algorithm
+                                    <br /> Output shared Keys
                                 </div>
                             </div>
                         </a>
