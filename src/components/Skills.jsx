@@ -5,6 +5,8 @@ import BRAClogo from '../assets/brac_logo.png';
 import RobiLogo from '../assets/robi.png';
 import BRACUlogo2 from '../assets/bracu_logo2.png';
 import TripeGate from '../assets/logoTripegate.png'
+import Quantsys from '../assets/Quantsys.png'
+import Unilever from '../assets/Unilever.png'
 import { Fade, Slide } from "react-reveal";
 import ParticlesBg from 'particles-bg'
 
@@ -69,16 +71,16 @@ const Skills = () => {
                                 <div class="skills-box">
                                     <h2 class="container backend skills-text">Others</h2>
                                     <ul class="skills-text">
-
+    
+                                        <li>Pandas, NumPy</li>
                                         <li>REST API</li>
                                         <li>Agile & Scrum</li>
-                                        <li>WordPress</li>
-                                        <li>Wix</li>
+                                        <li>WordPress, Wix</li>
                                         <li>Jira</li>
                                         <li>GIT, BitBucket</li>
                                         <li>Latex</li>
                                         <li>Microsoft Office</li>
-
+                                        <li>Power BI Dashboards</li>
                                     </ul>
                                 </div>
                             </div>
@@ -92,9 +94,27 @@ const Skills = () => {
                         <div>
                             <div class="exp-work">
                                 <div class="work-section">
+                                    <a href="https://www.Quantsys.com/"> <img class="skill-pic" src={Quantsys} alt="Quantsys logo" /> </a>
+                                    <div class="exp-des">
+                                        <a href="http://www.Quantsys.com/" class="work-link"> Quantsys </a>
+                                        <p class="exp-info">USA - Remote</p>
+                                        <p class="exp-info">Java Developer</p>
+                                        <p class="exp-info">February, 2023 - Present</p>
+                                    </div>
+                                </div>
+                                <div class="work-section">
+                                    <a href="https://www.unilever.com/ucl-bd/"> <img class="skill-pic" src={Unilever} alt="Unilever logo" /> </a>
+                                    <div class="exp-des">
+                                        <a href="https://www.unilever.com/ucl-bd//" class="work-link"> Unilever Bangladesh Limited </a>
+                                        <p class="exp-info">Dhaka - Bangladesh</p>
+                                        <p class="exp-info">Supply Chain Operations IT</p>
+                                        <p class="exp-info">February, 2023 - April, 2023</p>
+                                    </div>
+                                </div>
+                                <div class="work-section">
                                     <a href="https://www.reddotdigitalit.com/"> <img class="skill-pic" src={RobiLogo} alt="ROBI logo" /> </a>
                                     <div class="exp-des">
-                                        <a href="http://www.brac.net/" class="work-link"> RedDot Digital IT - ROBI </a>
+                                        <a href="https://www.reddotdigitalit.com/" class="work-link"> RedDot Digital IT - ROBI </a>
                                         <p class="exp-info">Dhaka - Bangladesh</p>
                                         <p class="exp-info">Software Developer Intern</p>
                                         <p class="exp-info">September, 2022 - January, 2023</p>

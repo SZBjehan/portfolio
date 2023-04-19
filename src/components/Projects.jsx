@@ -7,9 +7,11 @@ import Magpie from "../assets/Magpie.png";
 import DemoP from "../assets/demoP.PNG";
 import GameV from "../assets/GameV.jpg";
 import Westford from "../assets/westfordPic.PNG";
-import Qbizz from "../assets/QuizBizz.PNG";
+import SpringBoot from "../assets/SpringJava.png";
+import SpringSecurity from "../assets/SpringSecurity.png";
+import JWT from "../assets/JWT.png";
+import ElipticCurvePic from "../assets/elipticCurve.jpeg";
 import FakeNews from "../assets/FakeNews.PNG"
-
 import { Fade, Slide } from "react-reveal";
 
 
@@ -99,6 +101,17 @@ const Projects = () => {
 
                     </div>
                     <div class="project-card">
+                        <a href="https://github.com/SZBjehan/Daily_Cost_Tracker_iOS">
+                            <div class="pro-box">
+                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <div class="box_title"> Daily Cost Tracker </div>
+                                <div class="box_des" > iOS App
+                                    <br /> Swift, Xcode
+                                    <br /> Store and calculate daily cost
+                                    <br /> Track daily cost
+                                </div>
+                            </div>
+                        </a>
                         <a href="https://github.com/SZBjehan/Fake_News_Detection_Data">
                             <div class="pro-box">
                                 <img class="pro-box-pic" src={FakeNews} alt="" />
@@ -121,9 +134,10 @@ const Projects = () => {
                                 </div>
                             </div>
                         </a>
+                        
                         <a href="https://github.com/SZBjehan/Spring_POJO_Async_Cache">
                             <div class="pro-box">
-                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <img class="pro-box-pic" src={SpringBoot} alt="" />
                                 <div class="box_title"> Spring Boot Management Project </div>
                                 <div class="box_des" > JAVA Spring Boot Project
                                     <br /> Backend only 
@@ -134,7 +148,7 @@ const Projects = () => {
                         </a>
                         <a href="https://github.com/SZBjehan/spring-security-jwt">
                             <div class="pro-box">
-                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <img class="pro-box-pic" src={JWT} alt="" />
                                 <div class="box_title"> Spring Security Project </div>
                                 <div class="box_des" > JAVA Spring Security Project using JWT
                                     <br /> Backend only 
@@ -181,7 +195,7 @@ const Projects = () => {
                         </a>
                         <a href="https://github.com/SZBjehan/EllipticCurve_Cryptography">
                             <div class="pro-box">
-                                <img class="pro-box-pic" src={FakeNews} alt="" />
+                                <img class="pro-box-pic" src={ElipticCurvePic} alt="" />
                                 <div class="box_title"> Eliptic Curve Cryptography </div>
                                 <div class="box_des" > Computations on Elliptic Curves
                                     <br /> JAVA
