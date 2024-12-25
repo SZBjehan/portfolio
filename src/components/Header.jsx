@@ -12,7 +12,7 @@ const Header = () => {
                 <h3>
                     <Typed
                         className="typed-text"
-                        strings={["Web Developer", "Full Stack Developer", "Data Engineer", "Video Editor", "Data Analyst"]}
+                        strings={["ML Researcher", "Full Stack Developer", "Video Editor", "Data Analyst", "Software Engineer"]}
                         typeSpeed={40}
                         backSpeed={60}
                         loop>
@@ -20,10 +20,10 @@ const Header = () => {
                 </h3>
             </div>
             <div class="about-social">
+                <a href="https://scholar.google.com/citations?user=XixKCJ0AAAAJ&hl=en" class="fa fa-brands fa-google-scholar"></a>
                 <a href="https://www.linkedin.com/in/syed-ziaul-bin-bashar" class="fa fa-linkedin"></a>
                 <a href="https://github.com/SZBjehan" class="fa fa-github"></a>
                 <a href="https://www.facebook.com/szb.jehan" class="fa fa-facebook"></a>
-                <a href="https://www.instagram.com/szb_jehan/" class="fa fa-instagram"></a>
             </div>
         </div>
     );

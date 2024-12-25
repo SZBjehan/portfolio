@@ -2,6 +2,7 @@
 import BUCC from '../assets/BUCC.jpg';
 import BUFC from '../assets/bufc.jpg';
 import BRAClogo from '../assets/brac_logo.png';
+import NMSU from '../assets/NM_State_University_logo_sm.png';
 import RobiLogo from '../assets/robi.png';
 import BRACUlogo2 from '../assets/bracu_logo2.png';
 import TripeGate from '../assets/logoTripegate.png'
@@ -24,6 +25,17 @@ const Skills = () => {
                             <div class="s-box">
 
                                 <div class="skills-box">
+                                    <h2 class="container skills-text bd-grid">Languages</h2>
+                                    <ul class="skills-text">
+                                        <li>JAVA</li>
+                                        <li>Python</li>
+                                        <li>Julia</li>
+                                        <li>C, C++</li>
+                                        <li>JavaScript</li>
+                                        <li>PHP</li>
+                                    </ul>
+                                </div>
+                                <div class="skills-box">
                                     <h2 class="container frontend skills-text">FrontEnd</h2>
                                     <ul class="skills-text">
                                         <li>ReactJS</li>
@@ -37,8 +49,8 @@ const Skills = () => {
                                 <div class="skills-box">
                                     <h2 class="container backend skills-text">BackEnd</h2>
                                     <ul class="skills-text">
-                                        <li>Laravel</li>
                                         <li>Spring Boot</li>
+                                        <li>Laravel</li>
                                         <li>MongoDB</li>
                                         <li>Express</li>
                                         <li>NodeJS</li>
@@ -47,40 +59,19 @@ const Skills = () => {
                                 </div>
 
                                 <div class="skills-box">
-                                    <h2 class="container skills-text bd-grid">Languages</h2>
-                                    <ul class="skills-text">
-                                        <li>JAVA</li>
-                                        <li>KOTLIN</li>
-                                        <li>C, C++</li>
-                                        <li>PHP</li>
-                                        <li>Python</li>
-                                        <li>JavaScript</li>
-                                    </ul>
-                                </div>
-                                {/* <div class="skills-box">
-                                    <h2 class="container skills-text bd-grid">Languages</h2>
-                                    <ul class="skills-text">
-                                        <li>JAVA</li>
-                                        <li>KOTLIN</li>
-                                        <li>C, C++</li>
-                                        <li>PHP</li>
-                                        <li>Python</li>
-                                        <li>JavaScript</li>
-                                    </ul>
-                                </div> */}
-                                <div class="skills-box">
                                     <h2 class="container backend skills-text">Others</h2>
                                     <ul class="skills-text">
     
-                                        <li>Pandas, NumPy</li>
+                                        <li>PyTorch</li>
+                                        <li>Tensorflow</li>
                                         <li>REST API</li>
-                                        <li>Agile & Scrum</li>
-                                        <li>WordPress, Wix</li>
+                                        <li>Latex</li>
                                         <li>Jira</li>
                                         <li>GIT, BitBucket</li>
-                                        <li>Latex</li>
                                         <li>Microsoft Office</li>
-                                        <li>Power BI Dashboards</li>
+                                        <li>Power BI</li>
+                                        <li>Agile & Scrum</li>
+                                        <li>WordPress, Wix</li>
                                     </ul>
                                 </div>
                             </div>
@@ -94,12 +85,12 @@ const Skills = () => {
                         <div>
                             <div class="exp-work">
                                 <div class="work-section">
-                                    <a href="https://www.Quantsys.com/"> <img class="skill-pic" src={Quantsys} alt="Quantsys logo" /> </a>
+                                    <a href="https://nmsu.edu/"> <img class="skill-pic" src={NMSU} alt="NMSU logo" /> </a>
                                     <div class="exp-des">
-                                        <a href="http://www.Quantsys.com/" class="work-link"> Quantsys </a>
-                                        <p class="exp-info">USA - Remote</p>
-                                        <p class="exp-info">Java Developer</p>
-                                        <p class="exp-info">February, 2023 - Present</p>
+                                        <a href="https://nmsu.edu/" class="work-link"> New Mexico State University </a>
+                                        <p class="exp-info">Las Cruces, NM, US</p>
+                                        <p class="exp-info">Graduate Research Assistant</p>
+                                        <p class="exp-info">September, 2024 - Present</p>
                                     </div>
                                 </div>
                                 <div class="work-section">
@@ -107,10 +98,20 @@ const Skills = () => {
                                     <div class="exp-des">
                                         <a href="https://www.unilever.com/ucl-bd//" class="work-link"> Unilever Bangladesh Limited </a>
                                         <p class="exp-info">Dhaka - Bangladesh</p>
-                                        <p class="exp-info">Supply Chain Operations IT</p>
+                                        <p class="exp-info">Supply Chain Data Automation, IT</p>
+                                        <p class="exp-info">February, 2023 - August, 2024</p>
+                                    </div>
+                                </div>
+                                <div class="work-section">
+                                    <a href="https://www.Quantsys.com/"> <img class="skill-pic" src={Quantsys} alt="Quantsys logo" /> </a>
+                                    <div class="exp-des">
+                                        <a href="http://www.Quantsys.com/" class="work-link"> Quantsys </a>
+                                        <p class="exp-info">USA - Remote</p>
+                                        <p class="exp-info">Java Developer</p>
                                         <p class="exp-info">February, 2023 - April, 2023</p>
                                     </div>
                                 </div>
+
                                 <div class="work-section">
                                     <a href="https://www.reddotdigitalit.com/"> <img class="skill-pic" src={RobiLogo} alt="ROBI logo" /> </a>
                                     <div class="exp-des">
@@ -147,7 +148,7 @@ const Skills = () => {
                                         <p class="exp-info">March, 2021 - June, 2021</p>
                                     </div>
                                 </div>
-                                <div class="work-section">
+                                {/* <div class="work-section">
                                     <a href="https://bracucc.org/"> <img class="skill-pic" src={BUCC} alt="BUCC Photo" /> </a>
                                     <div class="exp-des">
                                         <a href="https://bracucc.org/" class="work-link"> BRAC University Computer Club (BUCC) </a>
@@ -164,7 +165,7 @@ const Skills = () => {
                                         <p class="exp-info">Executive </p>
                                         <p class="exp-info">January, 2019 - April, 2021</p>
                                     </div>
-                                </div>
+                                </div> */}
 
 
                             </div>

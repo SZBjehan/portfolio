@@ -110,18 +110,19 @@ const Contact = () => {
                 <div class="contact-footer">
                     <h2 class="foot-h2"> Syed Ziaul Bin Bashar </h2>
                     <a class="foot-a" href="mailto:ziaulbinbashar@gmail.com"><p class="foot-p">ziaulbinbashar@gmail.com</p></a>
-                    <p class="foot-p">+88 01791787053</p>
+                    <a class="foot-a" href="mailto:szb@nmsu.edu"><p class="foot-p">szb@nmsu.edu</p></a>
+                    {/* <p class="foot-p">+88 01791787053</p> */}
                     <div class="contact-social">
+                        <a href="https://scholar.google.com/citations?user=XixKCJ0AAAAJ&hl=en" class="fa fa-brand fa-google-scholar"></a>
                         <a href="https://www.linkedin.com/in/syed-ziaul-bin-bashar" class="fa fa-linkedin"></a>
                         <a href="https://github.com/SZBjehan" class="fa fa-github"></a>
                         <a href="https://www.facebook.com/szb.jehan" class="fa fa-facebook"></a>
-                        <a href="https://www.instagram.com/szb_jehan/" class="fa fa-instagram"></a>
-                        <a href="https://www.instagram.com/szb_jehan/" class="fa fa-fiver"></a>
+                        
                     </div>
                 </div>
             </div>
             <div>
-                <p class="copyright">©2021 copyright | all right reserved</p>
+                <p class="copyright">©2025 copyright | all right reserved</p>
             </div>
         </div>
     );
